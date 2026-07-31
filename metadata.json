@@ -1,0 +1,6 @@
+{
+  "name": "NutriGenius AI - Food & Diet Analytics CRUD",
+  "description": "Full-stack AI-Powered Food Nutrition Analysis System with comprehensive food CRUD, Gemini vision image recognition, macro analysis, meal planning, and downloadable Spring Boot + MySQL architecture.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
